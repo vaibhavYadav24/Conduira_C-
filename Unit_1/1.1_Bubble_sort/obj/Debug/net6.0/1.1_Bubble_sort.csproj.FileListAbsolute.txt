@@ -1,0 +1,15 @@
+D:\main\C#\Unit_1\1.1_Bubble_sort\bin\Debug\net6.0\1.1_Bubble_sort.exe
+D:\main\C#\Unit_1\1.1_Bubble_sort\bin\Debug\net6.0\1.1_Bubble_sort.deps.json
+D:\main\C#\Unit_1\1.1_Bubble_sort\bin\Debug\net6.0\1.1_Bubble_sort.runtimeconfig.json
+D:\main\C#\Unit_1\1.1_Bubble_sort\bin\Debug\net6.0\1.1_Bubble_sort.dll
+D:\main\C#\Unit_1\1.1_Bubble_sort\bin\Debug\net6.0\ref\1.1_Bubble_sort.dll
+D:\main\C#\Unit_1\1.1_Bubble_sort\bin\Debug\net6.0\1.1_Bubble_sort.pdb
+D:\main\C#\Unit_1\1.1_Bubble_sort\obj\Debug\net6.0\1.1_Bubble_sort.csproj.AssemblyReference.cache
+D:\main\C#\Unit_1\1.1_Bubble_sort\obj\Debug\net6.0\1.1_Bubble_sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\main\C#\Unit_1\1.1_Bubble_sort\obj\Debug\net6.0\1.1_Bubble_sort.AssemblyInfoInputs.cache
+D:\main\C#\Unit_1\1.1_Bubble_sort\obj\Debug\net6.0\1.1_Bubble_sort.AssemblyInfo.cs
+D:\main\C#\Unit_1\1.1_Bubble_sort\obj\Debug\net6.0\1.1_Bubble_sort.csproj.CoreCompileInputs.cache
+D:\main\C#\Unit_1\1.1_Bubble_sort\obj\Debug\net6.0\1.1_Bubble_sort.dll
+D:\main\C#\Unit_1\1.1_Bubble_sort\obj\Debug\net6.0\ref\1.1_Bubble_sort.dll
+D:\main\C#\Unit_1\1.1_Bubble_sort\obj\Debug\net6.0\1.1_Bubble_sort.pdb
+D:\main\C#\Unit_1\1.1_Bubble_sort\obj\Debug\net6.0\1.1_Bubble_sort.genruntimeconfig.cache
